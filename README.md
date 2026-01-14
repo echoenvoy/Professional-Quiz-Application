@@ -47,9 +47,54 @@ The application follows a **modular structure**:
 * User profiles and authentication
 * AI-generated questions and multiplayer mode
 
-### ✅ Project Status
-
-**Production Ready** – fully functional, well-documented, and extensible.
 
 ---
+
+## 📝 Question Format (MCQ)
+
+Each question is stored in **JSON** and follows this structure:
+
+```json
+{
+  "question": "Question text here",
+  "choices": [
+    "Option 1",
+    "Option 2",
+    "Option 3",
+    "Option 4"
+  ],
+  "correct": "Correct option"
+}
+```
+
+---
+
+## 📌 Explanation of Fields
+
+* **question** → the question statement
+* **choices** → list of possible answers (MCQ)
+* **correct** → the exact correct answer (must match one choice)
+
+---
+
+## ✅ Example
+
+```json
+{
+  "question": "What does GUI stand for?",
+  "choices": [
+    "Graphical User Interface",
+    "General User Input",
+    "Global Unit Integration",
+    "Graphical Utility Interface"
+  ],
+  "correct": "Graphical User Interface"
+}
+```
+
+
+
+
+
+
 
