@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which country won the first ever FIFA World Cup in 1930?",
+    "choices": ["Brazil", "Uruguay", "Argentina", "Italy"],
+    "correct": "Uruguay"
+  },
+  {
+    "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "choices": ["Lionel Messi", "Cristiano Ronaldo", "Raul", "Robert Lewandowski"],
+    "correct": "Cristiano Ronaldo"
+  },
+  {
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "choices": ["Barcelona", "Bayern Munich", "Real Madrid", "AC Milan"],
+    "correct": "Real Madrid"
+  },
+  {
+    "question": "What is the maximum number of players a team can have on the field during a match?",
+    "choices": ["10", "11", "12", "13"],
+    "correct": "11"
+  },
+  {
+    "question": "Which player famously used the 'Cruyff Turn' skill move?",
+    "choices": ["Johan Cruyff", "Diego Maradona", "Pele", "Zinedine Zidane"],
+    "correct": "Johan Cruyff"
+  },
+  {
+    "question": "What year did the English Premier League officially begin?",
+    "choices": ["1988", "1990", "1992", "1994"],
+    "correct": "1992"
+  },
+  {
+    "question": "Which country has won the most Copa America titles?",
+    "choices": ["Brazil", "Argentina", "Uruguay", "Chile"],
+    "correct": "Uruguay"
+  },
+  {
+    "question": "Who is the only player to have won the FIFA World Cup as both a player and a manager?",
+    "choices": ["Franz Beckenbauer", "Mario Zagallo", "Didier Deschamps", "Zinedine Zidane"],
+    "correct": "Mario Zagallo"
+  },
+  {
+    "question": "What is the length of a standard football match (excluding extra time)?",
+    "choices": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"],
+    "correct": "90 minutes"
+  },
+  {
+    "question": "Which player holds the record for most Ballon d'Or awards?",
+    "choices": ["Lionel Messi", "Cristiano Ronaldo", "Johan Cruyff", "Michel Platini"],
+    "correct": "Lionel Messi"
+  },
+  {
+    "question": "What does the term 'hat-trick' mean in football?",
+    "choices": ["Three goals in a match", "Three assists in a match", "Three red cards in a season", "Three consecutive wins"],
+    "correct": "Three goals in a match"
+  },
+  {
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "choices": ["Germany", "Brazil", "Russia", "Qatar"],
+    "correct": "Russia"
+  },
+  {
+    "question": "What is the name of the trophy awarded to the winner of the UEFA Champions League?",
+    "choices": ["The Cup of Champions", "The European Cup", "The Champions Cup", "The European Champion Clubs' Cup"],
+    "correct": "The European Champion Clubs' Cup"
+  },
+  {
+    "question": "Which of these players never won the FIFA World Cup?",
+    "choices": ["Zinedine Zidane", "George Best", "Ronaldo (Brazilian)", "Paolo Maldini"],
+    "correct": "George Best"
+  },
+  {
+    "question": "What is the diameter of a standard football (soccer ball)?",
+    "choices": ["20-22 cm", "22-24 cm", "24-26 cm", "27-28 cm"],
+    "correct": "22-24 cm"
+  },
+  {
+    "question": "Which club is known as 'The Red Devils'?",
+    "choices": ["Liverpool", "Manchester United", "AC Milan", "Bayern Munich"],
+    "correct": "Manchester United"
+  },
+  {
+    "question": "In what year was the first Women's World Cup held?",
+    "choices": ["1986", "1991", "1995", "1999"],
+    "correct": "1991"
+  },
+  {
+    "question": "What is the offside rule in football?",
+    "choices": [
+      "A player cannot be nearer to the opponent's goal line than the ball",
+      "A player cannot be nearer to the opponent's goal line than the second last opponent",
+      "A player cannot receive the ball directly from a throw-in",
+      "A player cannot stand in the opponent's penalty area"
+    ],
+    "correct": "A player cannot be nearer to the opponent's goal line than the second last opponent"
+  },
+  {
+    "question": "Which country has appeared in the most FIFA World Cup finals without ever winning?",
+    "choices": ["Netherlands", "Portugal", "Sweden", "Czech Republic"],
+    "correct": "Netherlands"
+  },
+  {
+    "question": "What does VAR stand for in football?",
+    "choices": [
+      "Video Assistant Referee",
+      "Visual Aid Referee",
+      "Video Analysis Review",
+      "Verified Assistant Referee"
+    ],
+    "correct": "Video Assistant Referee"
+  }
+]
